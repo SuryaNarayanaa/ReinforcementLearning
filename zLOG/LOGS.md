@@ -18,3 +18,8 @@
 **==>** Feed forward NN with torch usign on device GPU 
 
 ---
+## 2024-07-23 13:46:52
+
+**==>** Feed forward Fashin NN with torch usign on device GPU 
+
+---
