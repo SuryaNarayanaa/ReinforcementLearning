@@ -13,3 +13,8 @@
 **==>** Learned how to save a recording of RL and learned basics of torch and tried to implement Linear regression and Logistic regression usign MNIST. Learnt how to save a model  
 
 ---
+## 2024-07-23 12:38:24
+
+**==>** Feed forward NN with torch usign on device GPU 
+
+---
